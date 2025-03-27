@@ -1,0 +1,12 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+  padding: 20px;
+  border: 1px solid black;
+  width: 50%;
+  height: auto;
+  margin: auto;
+  position: relative;
+  background-color: white;
+}
